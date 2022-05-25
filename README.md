@@ -1,12 +1,16 @@
-**Hi!** ;)
+### **Hi there**! 😎
 
-I'm Armstrong Jr, a Brazilian Data Scientist in training. 
+I'm Armstrong Jr, PhD in Physics and Data Scientist in training. 
 
-**Programming Languages:** Python, SQL, and R.
+💻**Programming Languages:** 
 
-**Contacts:** godoyajr@gmail.com | linkedin.com/in/armstrong-godoy-jr
+* Python
+* SQL
+* R
 
-Visit my Medium: medium.com/@armstrong-godoy-jr
+📨**Contact:** godoyajr@gmail.com | [LinkedIn](linkedin.com/in/armstrong-godoy-jr)
+
+📰Visit my [Medium](medium.com/@armstrong-godoy-jr)!
 
 
 
