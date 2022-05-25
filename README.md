@@ -1,6 +1,6 @@
 **Hi!** ;)
 
-I'm Armstrong Jr, a brazilian Data Scientist in training. 
+I'm Armstrong Jr, a Brazilian Data Scientist in training. 
 
 **Programming Languages:** Python, SQL, and R.
 
