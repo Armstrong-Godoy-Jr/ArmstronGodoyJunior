@@ -6,7 +6,6 @@ I'm Armstrong Jr, PhD in Physics and Data Scientist in training.
 
 * Python
 * SQL
-* R
 
 📨**Contact:** godoyajr@gmail.com | [LinkedIn](linkedin.com/in/armstrong-godoy-jr)
 
